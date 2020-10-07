@@ -21,7 +21,7 @@ function Header(props) {
   return (
     <ElevationScroll>
       <AppBar position="fixed">
-        <Toolbar>Dillon Development</Toolbar>
+        <Toolbar>Dillon Designs</Toolbar>
       </AppBar>
     </ElevationScroll>
   );
